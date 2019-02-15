@@ -243,7 +243,7 @@ reporting that they are not ready does not receive traffic through Kubernetes
 Services.
 
 {{< note >}}
-Readiness probes runs on the container during its whole lifecycle.
+Readiness probes run on the container during its whole lifecycle.
 {{< /note >}}
 
 Readiness probes are configured similarly to liveness probes. The only difference
